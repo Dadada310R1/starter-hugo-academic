@@ -1,7 +1,7 @@
 ---
 title: 姜威
 role: 流体力学硕士生
-avatar_filename: img_2566-20220316-122227-.jpg
+avatar_filename: qq截图20220316190223.bmp
 bio: 研究方向为流体力学、多相流、强化换热及电池热管理
 interests:
   - Artificial Intelligence
