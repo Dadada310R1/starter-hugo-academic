@@ -4,13 +4,14 @@ role: 流体力学硕士生
 avatar_filename: qq截图20220316190223.bmp
 bio: 研究方向为流体力学、多相流、强化换热及电池热管理
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 电池热管理
+  - 多相传热传质
+  - 强化传热
+  - 神经网络，多物理场耦合模型
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: jiang_cumt@cumt.edu.cn
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -24,21 +25,18 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: China Univeristy Of Minning And Tecnology
+    url: http://www.cumt.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
-superuser: true
+    - course: 流体力学硕士
+      institution: 中国矿业大学
+      year: 2021
+    - course: 能源与动力工程学士
+      institution: 中国矿业大学
+      year: 2020
+email: jiang_cumt@cumt.edu.cn
+superuser: false
 highlight_name: true
 ---
 
